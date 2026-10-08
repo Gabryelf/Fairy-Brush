@@ -1,5 +1,5 @@
 export const APP_NAME = 'Fairy Brush';
-export const APP_VERSION = '0.1.0';
+export const APP_VERSION = '0.0.2';
 
 export const CANVAS = {
   DEFAULT_WIDTH: 1024,

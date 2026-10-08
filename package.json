@@ -1,8 +1,7 @@
 {
   "name": "fairy-brush",
-  "version": "1.0.0",
-  "description": "Векторный графический редактор для художников. Итеративная разработка.",
-  "main": "index.js",
+  "private": true,
+  "version": "0.0.2",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -10,18 +9,6 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^5.4.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Gabryelf/Fairy-Brush.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/Gabryelf/Fairy-Brush/issues"
-  },
-  "homepage": "https://github.com/Gabryelf/Fairy-Brush#readme"
+    "vite": "^5.4.21"
+  }
 }
