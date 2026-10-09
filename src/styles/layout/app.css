@@ -1,0 +1,12 @@
+.app {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 100vw;
+    background: var(--color-bg-app);
+    position: relative;
+}
+
+.app--vertical-panels {
+    flex-direction: row;
+}
